@@ -1,0 +1,9 @@
+actualizaciones
+
+1. Clase MyButton:
+   - Define un botón personalizado en Flutter con propiedades como onPressed y text.
+   - Utiliza el widget ElevatedButton para representar el botón.
+   - Permite personalizar el color del texto y del fondo del botón.
+
+2. desde Home hay metodos que para poder aprovechar los btn y solo se llaman para
+estos cambien de color los metods estan Home
