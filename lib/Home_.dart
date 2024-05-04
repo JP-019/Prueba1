@@ -1,6 +1,6 @@
-import 'dart:math';
+// ignore_for_file: file_names
 
-import 'package:flutter/cupertino.dart';
+import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:prueba1/compontes/button.dart';
 
